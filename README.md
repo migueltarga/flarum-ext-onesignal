@@ -2,7 +2,7 @@
 
 
 ### To Install 
- - Run this command: `composer require zurtr/flarum-ext-onesignal`
+ - Run this command: `composer require migueltarga/flarum-ext-onesignal`
 
 ### Event Triggers
 
